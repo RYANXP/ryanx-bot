@@ -7,7 +7,7 @@ BOT WHATSAPP PARA TERMUX
 > pkg install nodejs
 > pkg install ffmpeg
 > git clone https://github.com/RYANXP/ryanx-bot
-> cd Arya-Bot
+> cd ryanx-bot
 > npm i
 > node index.js
 > Escaneia o Qr e pronto :)
