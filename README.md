@@ -1,8 +1,5 @@
-# Bot Naga
-BOT WHATSAPP TERMUX BYE:DRAWL NAG
-
-### Alat dan Bahan
-Siapin alat dan bahannya.
+# RYANX BOT
+BOT WHATSAPP PARA TERMUX
 ```bash
 > niat
 > 2 handphone (1 buat jalanin sc, 1 buat scan qr)
