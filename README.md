@@ -1,16 +1,7 @@
 # RYANX BOT
 BOT WHATSAPP PARA TERMUX
-```bash
-> niat
-> 2 handphone (1 buat jalanin sc, 1 buat scan qr)
-> internet yang memadai, POKOKNYA 4G +
-> aplikasi whatsapp
-> aplikasi termux
-> kopi
-```
 
-### Cara Installnya
-Sebelum lu jalanin sc nya install dulu lah.
+# COMANDOS
 ```bash
 > kalo lu belum punya apk termux, download di playstore
 > masuk ke apk termux lalu ketik dibawah ini!
@@ -21,29 +12,29 @@ Sebelum lu jalanin sc nya install dulu lah.
 > Tinggal scan qr dah
 ```
 
-## Features
+## BENEFICIOS
 
-| NFQ BOT       |                Feature           |
+| RYANX BOT       |                Feature           |
 | :-----------: | :--------------------------------: |
-|       ✅       | Sticker CreatoR                  |
-|       ✅       | Kick Grup                        |
+|       ✅       | Criar figurinhas                 |
+|       ✅       | Kickar do grupo                        |
 |       ✅       | Bucin                            |
-|       ✅       | Promote Member                   |
-|       ✅       | Add                              |
+|       ✅       | Promover Membro                 |
+|       ✅       | Adicionar                             |
 |       ✅       | Link                             |
-|       ✅       | Link Grup                        |
+|       ✅       | Link Grupo                        |
 |       ✅       | Ss (web)                         |
-|       ✅       | Pengumuman                       |
-|       ✅       | List Online                      |
+|       ✅       | anuncio                       |
+|       ✅       | Lista Online                      |
 |       ✅       | Fitnah Reply                     |
 |       ✅       | Jadi Bot Cepat                   |
-|       ✅       | HideTag                          |
-|       ✅       | Prefix Random                    |
+|       ✅       | Ocultar tag                        |
+|       ✅       | prefixo aleatorio                   |
 |       ✅       | Info                             |
-|       ✅       | Google Font                      |
+|       ✅       | Google Fonts                      |
 
-## Special Thanks to
+## CREDITOS ESPECIAL :)
 * [`NUROTOMO`](https://github.com/Nurotomo)
 
-### SOSMED
-* Youtube: Drawl Nag
+### CRIADOR
+* Youtube:SRRYANX9
