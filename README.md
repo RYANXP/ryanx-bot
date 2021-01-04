@@ -3,13 +3,14 @@ BOT WHATSAPP PARA TERMUX
 
 # COMANDOS
 ```bash
-> kalo lu belum punya apk termux, download di playstore
-> masuk ke apk termux lalu ketik dibawah ini!
-> git clone https://github.com/Arya274/Arya-Bot
+> pkg install git
+> pkg install nodejs
+> pkg install ffmpeg
+> git clone https://github.com/RYANXP/ryanx-bot
 > cd Arya-Bot
 > npm i
 > node index.js
-> Tinggal scan qr dah
+> Escaneia o Qr e pronto :)
 ```
 
 ## BENEFICIOS
@@ -37,4 +38,4 @@ BOT WHATSAPP PARA TERMUX
 * [`NUROTOMO`](https://github.com/Nurotomo)
 
 ### CRIADOR
-* Youtube:SRRYANX9
+* Youtube:https://youtube.com/channel/UCmZTLIcw_C0Mh7J1DyweqNQ
