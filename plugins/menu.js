@@ -34,7 +34,11 @@ ${_p}googlef <search>
 *sobre*: Sem informaçao!
 
 ${_p}readmore <texto>|<ocultar>
-*sobre* 
+*sobre*: Sem informaçao!
+
+${_p}nulis <texto>
+*sobre*:Cria Um texto no carderno
+
 ╚═════════════╝
 
 
